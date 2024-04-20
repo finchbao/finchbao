@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @finchbao
-- 👀 I’m interested in beautiful and magical biology
+- 👀 I’m interested in developing new single cell tools
 - 🌱 I’m currently learning how to apply competitive tool to solve biological question
 - 📫 How to reach me : send me message
 
